@@ -1,2 +1,2 @@
 # Dispersion-Analysis-Research
-Mechanics of Metastructures research lab work.
+My work with dispersion research modeling with COMSOL in Dr. Pal's Mechanics of Metastructures research lab!
