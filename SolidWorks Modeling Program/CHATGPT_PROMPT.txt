@@ -1,0 +1,115 @@
+Read the attached image and create a downloadable chat_sketch_v1 JSON file for my
+offline SolidWorks importer, plus a plot of the proposed solid area and outlines.
+Use the original image pixel dimensions. I enter millimeter dimensions and
+extrusion depth in the terminal and adjust points in the program.
+
+INTERPRETATION
+- Infer intended design geometry: if a boundary looks straight, represent the
+  whole straight run as ONE line between its actual corners. Ignore edge noise,
+  pixel stair steps, paper texture, shadows, and hand-drawn wobble. Use native
+  circles and circular arcs where intended. Do not turn a circular hole into a
+  polygon. Do not remove meaningful corners, slots, or thin webs.
+- Read variable names, numeric dimensions, extension lines, and arrowheads.
+  Associate each dimension with the actual referenced geometry. Ignore text,
+  arrows, extension lines, and center marks as extruded edges.
+- White paper/whiteboard is not automatically material. When the user shades or
+  hatches selected regions, those regions are SOLID. A shaded square surrounding
+  an unshaded circle means a square plate with a circular through-hole. Do not
+  trace individual hatch/scribble strokes as entities.
+- For the existing spiral photograph, brown/manila is solid and dark lines are
+  gaps. Do not invert that interpretation. Do not generalize it blindly to other
+  drawings. If shading, edge meaning, or a dimension's endpoints are ambiguous,
+  ask the user before inventing the intended solid area.
+- For a perspective photo, request a more orthographic image if the distortion
+  prevents reliable interpretation. Dimensions override apparent pixel lengths.
+
+BASE SCHEMA (still compatible with un-dimensioned chat_sketch_v1 files)
+{
+ "schema":"chat_sketch_v1",
+ "coordinate_system":"image_pixels_top_left",
+ "image":{"file":"input.png","width":800,"height":600},
+ "material":{"interpretation":"shaded_regions","description":"Shaded rectangle with an unshaded circular through-hole."},
+ "notes":["Describe assumptions and ambiguity."],
+ "points":[
+  {"id":"a","x":200,"y":100},{"id":"b","x":600,"y":100},
+  {"id":"c","x":600,"y":500},{"id":"d","x":200,"y":500},
+  {"id":"o","x":400,"y":300},{"id":"r","x":450,"y":300}
+ ],
+ "contours":[
+  {"name":"plate","role":"solid","entities":[
+   {"type":"line","start":"a","end":"b"},
+   {"type":"line","start":"b","end":"c"},
+   {"type":"line","start":"c","end":"d"},
+   {"type":"line","start":"d","end":"a"}]},
+  {"name":"hole","role":"hole","entities":[
+   {"type":"circle","center":"o","rim":"r"}]}
+ ],
+ "dimensions":[
+  {"name":"width","type":"horizontal_distance","points":["a","b"],"value_mm":null},
+  {"name":"height","type":"vertical_distance","points":["a","d"],"value_mm":null},
+  {"name":"D","type":"diameter","points":["o","r"],"value_mm":null}
+ ],
+ "constraints":[
+  {"type":"horizontal","points":["a","b"]},
+  {"type":"horizontal","points":["d","c"]},
+  {"type":"vertical","points":["a","d"]},
+  {"type":"vertical","points":["b","c"]},
+  {"type":"midpoint_x","points":["o","a","c"]},
+  {"type":"midpoint_y","points":["o","a","c"]},
+  {"type":"horizontal","points":["o","r"]}
+ ]
+}
+This example's centering constraints are appropriate only when centering is
+intended. Adapt all coordinates, relationships, labels, and counts to the actual
+image. Do not invent extra named dimensions absent from the drawing. If the
+shape is explicitly a square with side d, use one dimension named d and add
+{"type":"equal_length","points":["a","b","a","d"]}.
+
+DIMENSIONS
+- name: exact variable label (case-sensitive). Repeated names share ONE prompted
+  value. d and D are different. Use a descriptive unique name for an unlabeled
+  numeric dimension.
+- value_mm: null for an unknown variable; a positive number for a printed numeric
+  dimension, converted from explicit source units to mm. The terminal displays
+  it as an editable default. Do not invent values for symbolic labels.
+- type: distance (point-to-point); horizontal_distance or vertical_distance
+  (positive projected separation); radius or diameter (center and rim point IDs).
+  For a side-to-side dimension, choose corners on the referenced sides and add
+  the relations needed to keep those sides horizontal/vertical/parallel.
+- Dimensions constrain actual sketch coordinates. Include enough geometric
+  relationships to preserve intent when sizes change. Without relationships,
+  only the referenced points are controlled; the remainder is underconstrained.
+- The first listed dimension must have a nonzero image span. It establishes the
+  starting scale. Further dimensions may independently change proportions.
+- Terminal input is in mm. Algebraic expressions, angular dimensions, and
+  symbolic formula evaluation are not supported; explain or ask about these.
+
+RELATION TYPES (no name/value required)
+- horizontal [a,b]: equal y. vertical [a,b]: equal x.
+- equal_length [a,b,c,d]: length ab equals length cd.
+- parallel [a,b,c,d] and perpendicular [a,b,c,d].
+- midpoint_x [p,a,b]: p.x=(a.x+b.x)/2. midpoint_y similarly.
+  Use both for a midpoint/center. Use shared point IDs for coincidence.
+- Radius/diameter relations apply to two identified points. Do not claim arc
+  tangency/radius constraints, fixed-angle constraints, or full parametric CAD
+  constraints unless they are actually represented by supported relationships.
+
+GEOMETRY
+- Point coordinates: pixels, top-left origin, x right, y down. No normalization.
+- line: start/end point IDs.
+- arc: start/end/through point IDs; through is ON the desired circular arc,
+  not its center. The three points must be distinct and noncollinear.
+- circle: center/rim point IDs; handles must not be shared with other entities.
+  Relations can reference these IDs to locate or size the circle.
+- Each contour is a closed, ordered chain (last end ID = first start ID), or
+  a single full circle. Adjacent entities share endpoint IDs, not duplicate
+  points with identical coordinates. Include no unused points.
+- role solid means the outer boundary of material/an island; role hole means a
+  boundary inside material that removes it. Roles must match contour nesting:
+  outer=solid, next depth=hole, next=solid. Do not overlap/touch contours.
+- The material description documents how image shading was interpreted; it does
+  not perform segmentation. Encode the actual selected regions as contours.
+- Maximum 128 contours, 6000 points/entities, 128 dimensions+relations. Prefer
+  small sketches of clean lines/arcs. No open construction paths or splines.
+
+Return a valid JSON file, not executable code, plus a material-fill preview.

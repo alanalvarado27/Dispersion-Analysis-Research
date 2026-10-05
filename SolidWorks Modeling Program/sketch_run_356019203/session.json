@@ -1,0 +1,160 @@
+{
+  "calibration_points_pixels": [
+    {
+      "x": 17.421333333333333,
+      "y": 289.052
+    },
+    {
+      "x": 339.09599999999995,
+      "y": 289.052
+    }
+  ],
+  "contours": [
+    {
+      "entities": [
+        {
+          "end": "p2",
+          "start": "p1",
+          "type": "line"
+        },
+        {
+          "end": "p3",
+          "start": "p2",
+          "type": "line"
+        },
+        {
+          "end": "p4",
+          "start": "p3",
+          "type": "line"
+        },
+        {
+          "end": "p5",
+          "start": "p4",
+          "type": "line"
+        },
+        {
+          "end": "p6",
+          "start": "p5",
+          "type": "line"
+        },
+        {
+          "end": "p7",
+          "start": "p6",
+          "type": "line"
+        },
+        {
+          "end": "p8",
+          "start": "p7",
+          "type": "line"
+        },
+        {
+          "end": "p9",
+          "start": "p8",
+          "type": "line"
+        },
+        {
+          "end": "p10",
+          "start": "p9",
+          "type": "line"
+        },
+        {
+          "end": "p11",
+          "start": "p10",
+          "type": "line"
+        },
+        {
+          "end": "p12",
+          "start": "p11",
+          "type": "line"
+        },
+        {
+          "end": "p1",
+          "start": "p12",
+          "type": "line"
+        }
+      ],
+      "name": "upper_center_spiral_strip"
+    }
+  ],
+  "depth_mm": 3.0,
+  "image": "C:\\Users\\alana\\projects\\MEEN 491H\\solidworks_llama_project\\solidworks_llama\\input_pattern.png",
+  "known_distance_mm": 29.0,
+  "mm_per_pixel": 0.09015319826242665,
+  "plane": "Front Plane",
+  "points_meters": [
+    {
+      "id": "p1",
+      "x": 0.014548442318533012,
+      "y": 0.025221799665086055,
+      "z": 0
+    },
+    {
+      "id": "p2",
+      "x": 0.008173078597008986,
+      "y": 0.0144748172066187,
+      "z": 0
+    },
+    {
+      "id": "p3",
+      "x": 0.01447469700235435,
+      "y": 0.010767988153662504,
+      "z": 0
+    },
+    {
+      "id": "p4",
+      "x": 0.017268093850515635,
+      "y": 0.012309157077958688,
+      "z": 0
+    },
+    {
+      "id": "p5",
+      "x": 0.014415736810690723,
+      "y": 0.01693194262526114,
+      "z": 0
+    },
+    {
+      "id": "p6",
+      "x": 0.014262746833239385,
+      "y": 0.016166902584806186,
+      "z": 0
+    },
+    {
+      "id": "p7",
+      "x": 0.014510307515668005,
+      "y": 0.01611731832576185,
+      "z": 0
+    },
+    {
+      "id": "p8",
+      "x": 0.014537623934741522,
+      "y": 0.016253810267931164,
+      "z": 0
+    },
+    {
+      "id": "p9",
+      "x": 0.016914152394137353,
+      "y": 0.012402195178565511,
+      "z": 0
+    },
+    {
+      "id": "p10",
+      "x": 0.014478663743077895,
+      "y": 0.011058461758464042,
+      "z": 0
+    },
+    {
+      "id": "p11",
+      "x": 0.008519447184733232,
+      "y": 0.014563888566501978,
+      "z": 0
+    },
+    {
+      "id": "p12",
+      "x": 0.014765531219948938,
+      "y": 0.025093060897967312,
+      "z": 0
+    }
+  ],
+  "preview_only": false,
+  "sketch_source": "C:\\Users\\alana\\projects\\MEEN 491H\\solidworks_llama_project\\solidworks_llama\\upper_center_spiral.json"
+}

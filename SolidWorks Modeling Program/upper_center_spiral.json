@@ -1,0 +1,144 @@
+{
+  "schema": "chat_sketch_v1",
+  "coordinate_system": "image_pixels_top_left",
+  "image": {
+    "file": "Parallelogram - Raw.png",
+    "width": 355,
+    "height": 569
+  },
+  "notes": [
+    "Partial example: the upper-center spiral only, not the entire repeating pattern.",
+    "The visible black line is open. This sketch traces both sides as a closed narrow strip, approximately 2.8 pixels wide, with end caps. Extrusion creates a raised spiral strip, not a solid triangle or an engraved plate.",
+    "Coordinates and stroke width are visual approximations; review against the overlay and adjust. No real-world dimension is available in the image; supply a known distance during calibration.",
+    "All boundaries in this selected motif are straight; there are no inferred circles or arcs."
+  ],
+  "points": [
+    {
+      "id": "p1",
+      "x": 178.796,
+      "y": 9.286
+    },
+    {
+      "id": "p2",
+      "x": 108.079,
+      "y": 128.494
+    },
+    {
+      "id": "p3",
+      "x": 177.978,
+      "y": 169.611
+    },
+    {
+      "id": "p4",
+      "x": 208.963,
+      "y": 152.516
+    },
+    {
+      "id": "p5",
+      "x": 177.324,
+      "y": 101.239
+    },
+    {
+      "id": "p6",
+      "x": 175.627,
+      "y": 109.725
+    },
+    {
+      "id": "p7",
+      "x": 178.373,
+      "y": 110.275
+    },
+    {
+      "id": "p8",
+      "x": 178.676,
+      "y": 108.761
+    },
+    {
+      "id": "p9",
+      "x": 205.037,
+      "y": 151.484
+    },
+    {
+      "id": "p10",
+      "x": 178.022,
+      "y": 166.389
+    },
+    {
+      "id": "p11",
+      "x": 111.921,
+      "y": 127.506
+    },
+    {
+      "id": "p12",
+      "x": 181.204,
+      "y": 10.714
+    }
+  ],
+  "contours": [
+    {
+      "name": "upper_center_spiral_strip",
+      "entities": [
+        {
+          "type": "line",
+          "start": "p1",
+          "end": "p2"
+        },
+        {
+          "type": "line",
+          "start": "p2",
+          "end": "p3"
+        },
+        {
+          "type": "line",
+          "start": "p3",
+          "end": "p4"
+        },
+        {
+          "type": "line",
+          "start": "p4",
+          "end": "p5"
+        },
+        {
+          "type": "line",
+          "start": "p5",
+          "end": "p6"
+        },
+        {
+          "type": "line",
+          "start": "p6",
+          "end": "p7"
+        },
+        {
+          "type": "line",
+          "start": "p7",
+          "end": "p8"
+        },
+        {
+          "type": "line",
+          "start": "p8",
+          "end": "p9"
+        },
+        {
+          "type": "line",
+          "start": "p9",
+          "end": "p10"
+        },
+        {
+          "type": "line",
+          "start": "p10",
+          "end": "p11"
+        },
+        {
+          "type": "line",
+          "start": "p11",
+          "end": "p12"
+        },
+        {
+          "type": "line",
+          "start": "p12",
+          "end": "p1"
+        }
+      ]
+    }
+  ]
+}

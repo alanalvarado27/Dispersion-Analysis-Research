@@ -1,0 +1,17 @@
+{
+  "created_at": "2026-09-18T18:13:06.7610155Z",
+  "done": true,
+  "done_reason": "stop",
+  "eval_count": 122,
+  "eval_duration": 4756930000,
+  "load_duration": 12451499500,
+  "message": {
+    "content": "{\"contours\": [[ {\"x\": 166, \"y\": 200}, {\"x\": 844, \"y\": 200}, {\"x\": 844, \"y\": 499}, {\"x\": 556, \"y\": 499}, {\"x\": 556, \"y\": 799}, {\"x\": 166, \"y\": 799}, {\"x\": 166, \"y\": 200} ]]}",
+    "role": "assistant"
+  },
+  "model": "qwen3-vl:8b-instruct",
+  "prompt_eval_cached_count": 0,
+  "prompt_eval_count": 1347,
+  "prompt_eval_duration": 2653356000,
+  "total_duration": 19940327200
+}

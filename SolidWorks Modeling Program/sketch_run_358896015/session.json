@@ -1,0 +1,96 @@
+{
+  "contours": [
+    {
+      "entities": [
+        {
+          "end": "top_right",
+          "start": "top_left",
+          "type": "line"
+        },
+        {
+          "end": "bottom_right",
+          "start": "top_right",
+          "type": "line"
+        },
+        {
+          "end": "bottom_left",
+          "start": "bottom_right",
+          "type": "line"
+        },
+        {
+          "end": "top_left",
+          "start": "bottom_left",
+          "type": "line"
+        }
+      ],
+      "name": "rectangular_plate",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "center": "hole_center",
+          "rim": "hole_rim",
+          "type": "circle"
+        }
+      ],
+      "name": "circular_through_hole",
+      "role": "hole"
+    }
+  ],
+  "depth_mm": 3.0,
+  "dimension_values_mm": {
+    "L1": 3.0,
+    "L2": 7.0,
+    "d": 2.0
+  },
+  "image": "C:\\Users\\alana\\projects\\MEEN 491H\\solidworks_llama_project\\solidworks_llama\\IMG_3799.png",
+  "known_distance_mm": 0.0,
+  "mm_per_pixel": 0.006521739130434782,
+  "origin_pixels": {
+    "x": 442.0,
+    "y": 724.0
+  },
+  "plane": "Front Plane",
+  "points_meters": [
+    {
+      "id": "top_left",
+      "x": -0.00081956520920088,
+      "y": 0.0,
+      "z": 0
+    },
+    {
+      "id": "top_right",
+      "x": 0.006180434773531041,
+      "y": 0.0,
+      "z": 0
+    },
+    {
+      "id": "bottom_right",
+      "x": 0.00618043476533539,
+      "y": -0.003,
+      "z": 0
+    },
+    {
+      "id": "bottom_left",
+      "x": -0.0008195652010052278,
+      "y": -0.003,
+      "z": 0
+    },
+    {
+      "id": "hole_center",
+      "x": 0.0015902173913440718,
+      "y": -0.0014739130434782608,
+      "z": 0
+    },
+    {
+      "id": "hole_rim",
+      "x": 0.002590217391253057,
+      "y": -0.0014739130434782608,
+      "z": 0
+    }
+  ],
+  "preview_only": false,
+  "scale_source": "first_named_dimension",
+  "sketch_source": "C:\\Users\\alana\\projects\\MEEN 491H\\solidworks_llama_project\\solidworks_llama\\IMG_3799_sketch.json"
+}

@@ -1,0 +1,3778 @@
+{
+  "contours": [
+    {
+      "entities": [
+        {
+          "end": "p2",
+          "start": "p1",
+          "type": "line"
+        },
+        {
+          "end": "p3",
+          "start": "p2",
+          "type": "line"
+        },
+        {
+          "end": "p1",
+          "start": "p3",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_1",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p5",
+          "start": "p4",
+          "type": "line"
+        },
+        {
+          "end": "p6",
+          "start": "p5",
+          "type": "line"
+        },
+        {
+          "end": "p7",
+          "start": "p6",
+          "type": "line"
+        },
+        {
+          "end": "p4",
+          "start": "p7",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_2",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p9",
+          "start": "p8",
+          "type": "line"
+        },
+        {
+          "end": "p10",
+          "start": "p9",
+          "type": "line"
+        },
+        {
+          "end": "p11",
+          "start": "p10",
+          "type": "line"
+        },
+        {
+          "end": "p8",
+          "start": "p11",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_3",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p13",
+          "start": "p12",
+          "type": "line"
+        },
+        {
+          "end": "p14",
+          "start": "p13",
+          "type": "line"
+        },
+        {
+          "end": "p15",
+          "start": "p14",
+          "type": "line"
+        },
+        {
+          "end": "p16",
+          "start": "p15",
+          "type": "line"
+        },
+        {
+          "end": "p17",
+          "start": "p16",
+          "type": "line"
+        },
+        {
+          "end": "p18",
+          "start": "p17",
+          "type": "line"
+        },
+        {
+          "end": "p19",
+          "start": "p18",
+          "type": "line"
+        },
+        {
+          "end": "p20",
+          "start": "p19",
+          "type": "line"
+        },
+        {
+          "end": "p21",
+          "start": "p20",
+          "type": "line"
+        },
+        {
+          "end": "p22",
+          "start": "p21",
+          "type": "line"
+        },
+        {
+          "end": "p23",
+          "start": "p22",
+          "type": "line"
+        },
+        {
+          "end": "p12",
+          "start": "p23",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_4",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p25",
+          "start": "p24",
+          "type": "line"
+        },
+        {
+          "end": "p26",
+          "start": "p25",
+          "type": "line"
+        },
+        {
+          "end": "p27",
+          "start": "p26",
+          "type": "line"
+        },
+        {
+          "end": "p28",
+          "start": "p27",
+          "type": "line"
+        },
+        {
+          "end": "p29",
+          "start": "p28",
+          "type": "line"
+        },
+        {
+          "end": "p30",
+          "start": "p29",
+          "type": "line"
+        },
+        {
+          "end": "p31",
+          "start": "p30",
+          "type": "line"
+        },
+        {
+          "end": "p32",
+          "start": "p31",
+          "type": "line"
+        },
+        {
+          "end": "p33",
+          "start": "p32",
+          "type": "line"
+        },
+        {
+          "end": "p34",
+          "start": "p33",
+          "type": "line"
+        },
+        {
+          "end": "p35",
+          "start": "p34",
+          "type": "line"
+        },
+        {
+          "end": "p36",
+          "start": "p35",
+          "type": "line"
+        },
+        {
+          "end": "p37",
+          "start": "p36",
+          "type": "line"
+        },
+        {
+          "end": "p38",
+          "start": "p37",
+          "type": "line"
+        },
+        {
+          "end": "p39",
+          "start": "p38",
+          "type": "line"
+        },
+        {
+          "end": "p40",
+          "start": "p39",
+          "type": "line"
+        },
+        {
+          "end": "p41",
+          "start": "p40",
+          "type": "line"
+        },
+        {
+          "end": "p24",
+          "start": "p41",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_5",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p43",
+          "start": "p42",
+          "type": "line"
+        },
+        {
+          "end": "p44",
+          "start": "p43",
+          "type": "line"
+        },
+        {
+          "end": "p42",
+          "start": "p44",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_6",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p46",
+          "start": "p45",
+          "type": "line"
+        },
+        {
+          "end": "p47",
+          "start": "p46",
+          "type": "line"
+        },
+        {
+          "end": "p45",
+          "start": "p47",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_7",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p49",
+          "start": "p48",
+          "type": "line"
+        },
+        {
+          "end": "p50",
+          "start": "p49",
+          "type": "line"
+        },
+        {
+          "end": "p48",
+          "start": "p50",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_8",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p52",
+          "start": "p51",
+          "type": "line"
+        },
+        {
+          "end": "p53",
+          "start": "p52",
+          "type": "line"
+        },
+        {
+          "end": "p51",
+          "start": "p53",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_9",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p55",
+          "start": "p54",
+          "type": "line"
+        },
+        {
+          "end": "p56",
+          "start": "p55",
+          "type": "line"
+        },
+        {
+          "end": "p57",
+          "start": "p56",
+          "type": "line"
+        },
+        {
+          "end": "p58",
+          "start": "p57",
+          "type": "line"
+        },
+        {
+          "end": "p59",
+          "start": "p58",
+          "type": "line"
+        },
+        {
+          "end": "p60",
+          "start": "p59",
+          "type": "line"
+        },
+        {
+          "end": "p61",
+          "start": "p60",
+          "type": "line"
+        },
+        {
+          "end": "p62",
+          "start": "p61",
+          "type": "line"
+        },
+        {
+          "end": "p63",
+          "start": "p62",
+          "type": "line"
+        },
+        {
+          "end": "p64",
+          "start": "p63",
+          "type": "line"
+        },
+        {
+          "end": "p65",
+          "start": "p64",
+          "type": "line"
+        },
+        {
+          "end": "p66",
+          "start": "p65",
+          "type": "line"
+        },
+        {
+          "end": "p67",
+          "start": "p66",
+          "type": "line"
+        },
+        {
+          "end": "p68",
+          "start": "p67",
+          "type": "line"
+        },
+        {
+          "end": "p69",
+          "start": "p68",
+          "type": "line"
+        },
+        {
+          "end": "p70",
+          "start": "p69",
+          "type": "line"
+        },
+        {
+          "end": "p54",
+          "start": "p70",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_10",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p72",
+          "start": "p71",
+          "type": "line"
+        },
+        {
+          "end": "p73",
+          "start": "p72",
+          "type": "line"
+        },
+        {
+          "end": "p74",
+          "start": "p73",
+          "type": "line"
+        },
+        {
+          "end": "p75",
+          "start": "p74",
+          "type": "line"
+        },
+        {
+          "end": "p76",
+          "start": "p75",
+          "type": "line"
+        },
+        {
+          "end": "p77",
+          "start": "p76",
+          "type": "line"
+        },
+        {
+          "end": "p78",
+          "start": "p77",
+          "type": "line"
+        },
+        {
+          "end": "p79",
+          "start": "p78",
+          "type": "line"
+        },
+        {
+          "end": "p80",
+          "start": "p79",
+          "type": "line"
+        },
+        {
+          "end": "p81",
+          "start": "p80",
+          "type": "line"
+        },
+        {
+          "end": "p82",
+          "start": "p81",
+          "type": "line"
+        },
+        {
+          "end": "p83",
+          "start": "p82",
+          "type": "line"
+        },
+        {
+          "end": "p84",
+          "start": "p83",
+          "type": "line"
+        },
+        {
+          "end": "p85",
+          "start": "p84",
+          "type": "line"
+        },
+        {
+          "end": "p86",
+          "start": "p85",
+          "type": "line"
+        },
+        {
+          "end": "p87",
+          "start": "p86",
+          "type": "line"
+        },
+        {
+          "end": "p71",
+          "start": "p87",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_11",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p89",
+          "start": "p88",
+          "type": "line"
+        },
+        {
+          "end": "p90",
+          "start": "p89",
+          "type": "line"
+        },
+        {
+          "end": "p91",
+          "start": "p90",
+          "type": "line"
+        },
+        {
+          "end": "p88",
+          "start": "p91",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_12",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p93",
+          "start": "p92",
+          "type": "line"
+        },
+        {
+          "end": "p94",
+          "start": "p93",
+          "type": "line"
+        },
+        {
+          "end": "p95",
+          "start": "p94",
+          "type": "line"
+        },
+        {
+          "end": "p92",
+          "start": "p95",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_13",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p97",
+          "start": "p96",
+          "type": "line"
+        },
+        {
+          "end": "p98",
+          "start": "p97",
+          "type": "line"
+        },
+        {
+          "end": "p99",
+          "start": "p98",
+          "type": "line"
+        },
+        {
+          "end": "p100",
+          "start": "p99",
+          "type": "line"
+        },
+        {
+          "end": "p101",
+          "start": "p100",
+          "type": "line"
+        },
+        {
+          "end": "p102",
+          "start": "p101",
+          "type": "line"
+        },
+        {
+          "end": "p103",
+          "start": "p102",
+          "type": "line"
+        },
+        {
+          "end": "p104",
+          "start": "p103",
+          "type": "line"
+        },
+        {
+          "end": "p105",
+          "start": "p104",
+          "type": "line"
+        },
+        {
+          "end": "p106",
+          "start": "p105",
+          "type": "line"
+        },
+        {
+          "end": "p107",
+          "start": "p106",
+          "type": "line"
+        },
+        {
+          "end": "p108",
+          "start": "p107",
+          "type": "line"
+        },
+        {
+          "end": "p109",
+          "start": "p108",
+          "type": "line"
+        },
+        {
+          "end": "p110",
+          "start": "p109",
+          "type": "line"
+        },
+        {
+          "end": "p111",
+          "start": "p110",
+          "type": "line"
+        },
+        {
+          "end": "p112",
+          "start": "p111",
+          "type": "line"
+        },
+        {
+          "end": "p113",
+          "start": "p112",
+          "type": "line"
+        },
+        {
+          "end": "p114",
+          "start": "p113",
+          "type": "line"
+        },
+        {
+          "end": "p115",
+          "start": "p114",
+          "type": "line"
+        },
+        {
+          "end": "p116",
+          "start": "p115",
+          "type": "line"
+        },
+        {
+          "end": "p117",
+          "start": "p116",
+          "type": "line"
+        },
+        {
+          "end": "p118",
+          "start": "p117",
+          "type": "line"
+        },
+        {
+          "end": "p119",
+          "start": "p118",
+          "type": "line"
+        },
+        {
+          "end": "p120",
+          "start": "p119",
+          "type": "line"
+        },
+        {
+          "end": "p121",
+          "start": "p120",
+          "type": "line"
+        },
+        {
+          "end": "p122",
+          "start": "p121",
+          "type": "line"
+        },
+        {
+          "end": "p123",
+          "start": "p122",
+          "type": "line"
+        },
+        {
+          "end": "p124",
+          "start": "p123",
+          "type": "line"
+        },
+        {
+          "end": "p125",
+          "start": "p124",
+          "type": "line"
+        },
+        {
+          "end": "p126",
+          "start": "p125",
+          "type": "line"
+        },
+        {
+          "end": "p127",
+          "start": "p126",
+          "type": "line"
+        },
+        {
+          "end": "p128",
+          "start": "p127",
+          "type": "line"
+        },
+        {
+          "end": "p129",
+          "start": "p128",
+          "type": "line"
+        },
+        {
+          "end": "p130",
+          "start": "p129",
+          "type": "line"
+        },
+        {
+          "end": "p131",
+          "start": "p130",
+          "type": "line"
+        },
+        {
+          "end": "p132",
+          "start": "p131",
+          "type": "line"
+        },
+        {
+          "end": "p133",
+          "start": "p132",
+          "type": "line"
+        },
+        {
+          "end": "p134",
+          "start": "p133",
+          "type": "line"
+        },
+        {
+          "end": "p135",
+          "start": "p134",
+          "type": "line"
+        },
+        {
+          "end": "p136",
+          "start": "p135",
+          "type": "line"
+        },
+        {
+          "end": "p137",
+          "start": "p136",
+          "type": "line"
+        },
+        {
+          "end": "p138",
+          "start": "p137",
+          "type": "line"
+        },
+        {
+          "end": "p139",
+          "start": "p138",
+          "type": "line"
+        },
+        {
+          "end": "p140",
+          "start": "p139",
+          "type": "line"
+        },
+        {
+          "end": "p141",
+          "start": "p140",
+          "type": "line"
+        },
+        {
+          "end": "p142",
+          "start": "p141",
+          "type": "line"
+        },
+        {
+          "end": "p143",
+          "start": "p142",
+          "type": "line"
+        },
+        {
+          "end": "p144",
+          "start": "p143",
+          "type": "line"
+        },
+        {
+          "end": "p145",
+          "start": "p144",
+          "type": "line"
+        },
+        {
+          "end": "p146",
+          "start": "p145",
+          "type": "line"
+        },
+        {
+          "end": "p147",
+          "start": "p146",
+          "type": "line"
+        },
+        {
+          "end": "p148",
+          "start": "p147",
+          "type": "line"
+        },
+        {
+          "end": "p149",
+          "start": "p148",
+          "type": "line"
+        },
+        {
+          "end": "p150",
+          "start": "p149",
+          "type": "line"
+        },
+        {
+          "end": "p151",
+          "start": "p150",
+          "type": "line"
+        },
+        {
+          "end": "p152",
+          "start": "p151",
+          "type": "line"
+        },
+        {
+          "end": "p153",
+          "start": "p152",
+          "type": "line"
+        },
+        {
+          "end": "p154",
+          "start": "p153",
+          "type": "line"
+        },
+        {
+          "end": "p155",
+          "start": "p154",
+          "type": "line"
+        },
+        {
+          "end": "p156",
+          "start": "p155",
+          "type": "line"
+        },
+        {
+          "end": "p157",
+          "start": "p156",
+          "type": "line"
+        },
+        {
+          "end": "p158",
+          "start": "p157",
+          "type": "line"
+        },
+        {
+          "end": "p159",
+          "start": "p158",
+          "type": "line"
+        },
+        {
+          "end": "p160",
+          "start": "p159",
+          "type": "line"
+        },
+        {
+          "end": "p161",
+          "start": "p160",
+          "type": "line"
+        },
+        {
+          "end": "p162",
+          "start": "p161",
+          "type": "line"
+        },
+        {
+          "end": "p163",
+          "start": "p162",
+          "type": "line"
+        },
+        {
+          "end": "p164",
+          "start": "p163",
+          "type": "line"
+        },
+        {
+          "end": "p165",
+          "start": "p164",
+          "type": "line"
+        },
+        {
+          "end": "p166",
+          "start": "p165",
+          "type": "line"
+        },
+        {
+          "end": "p167",
+          "start": "p166",
+          "type": "line"
+        },
+        {
+          "end": "p168",
+          "start": "p167",
+          "type": "line"
+        },
+        {
+          "end": "p169",
+          "start": "p168",
+          "type": "line"
+        },
+        {
+          "end": "p170",
+          "start": "p169",
+          "type": "line"
+        },
+        {
+          "end": "p171",
+          "start": "p170",
+          "type": "line"
+        },
+        {
+          "end": "p172",
+          "start": "p171",
+          "type": "line"
+        },
+        {
+          "end": "p173",
+          "start": "p172",
+          "type": "line"
+        },
+        {
+          "end": "p174",
+          "start": "p173",
+          "type": "line"
+        },
+        {
+          "end": "p175",
+          "start": "p174",
+          "type": "line"
+        },
+        {
+          "end": "p176",
+          "start": "p175",
+          "type": "line"
+        },
+        {
+          "end": "p177",
+          "start": "p176",
+          "type": "line"
+        },
+        {
+          "end": "p178",
+          "start": "p177",
+          "type": "line"
+        },
+        {
+          "end": "p179",
+          "start": "p178",
+          "type": "line"
+        },
+        {
+          "end": "p180",
+          "start": "p179",
+          "type": "line"
+        },
+        {
+          "end": "p181",
+          "start": "p180",
+          "type": "line"
+        },
+        {
+          "end": "p182",
+          "start": "p181",
+          "type": "line"
+        },
+        {
+          "end": "p183",
+          "start": "p182",
+          "type": "line"
+        },
+        {
+          "end": "p184",
+          "start": "p183",
+          "type": "line"
+        },
+        {
+          "end": "p185",
+          "start": "p184",
+          "type": "line"
+        },
+        {
+          "end": "p186",
+          "start": "p185",
+          "type": "line"
+        },
+        {
+          "end": "p187",
+          "start": "p186",
+          "type": "line"
+        },
+        {
+          "end": "p188",
+          "start": "p187",
+          "type": "line"
+        },
+        {
+          "end": "p189",
+          "start": "p188",
+          "type": "line"
+        },
+        {
+          "end": "p190",
+          "start": "p189",
+          "type": "line"
+        },
+        {
+          "end": "p191",
+          "start": "p190",
+          "type": "line"
+        },
+        {
+          "end": "p192",
+          "start": "p191",
+          "type": "line"
+        },
+        {
+          "end": "p193",
+          "start": "p192",
+          "type": "line"
+        },
+        {
+          "end": "p194",
+          "start": "p193",
+          "type": "line"
+        },
+        {
+          "end": "p195",
+          "start": "p194",
+          "type": "line"
+        },
+        {
+          "end": "p196",
+          "start": "p195",
+          "type": "line"
+        },
+        {
+          "end": "p197",
+          "start": "p196",
+          "type": "line"
+        },
+        {
+          "end": "p198",
+          "start": "p197",
+          "type": "line"
+        },
+        {
+          "end": "p199",
+          "start": "p198",
+          "type": "line"
+        },
+        {
+          "end": "p200",
+          "start": "p199",
+          "type": "line"
+        },
+        {
+          "end": "p201",
+          "start": "p200",
+          "type": "line"
+        },
+        {
+          "end": "p202",
+          "start": "p201",
+          "type": "line"
+        },
+        {
+          "end": "p203",
+          "start": "p202",
+          "type": "line"
+        },
+        {
+          "end": "p204",
+          "start": "p203",
+          "type": "line"
+        },
+        {
+          "end": "p205",
+          "start": "p204",
+          "type": "line"
+        },
+        {
+          "end": "p206",
+          "start": "p205",
+          "type": "line"
+        },
+        {
+          "end": "p207",
+          "start": "p206",
+          "type": "line"
+        },
+        {
+          "end": "p208",
+          "start": "p207",
+          "type": "line"
+        },
+        {
+          "end": "p209",
+          "start": "p208",
+          "type": "line"
+        },
+        {
+          "end": "p210",
+          "start": "p209",
+          "type": "line"
+        },
+        {
+          "end": "p211",
+          "start": "p210",
+          "type": "line"
+        },
+        {
+          "end": "p212",
+          "start": "p211",
+          "type": "line"
+        },
+        {
+          "end": "p213",
+          "start": "p212",
+          "type": "line"
+        },
+        {
+          "end": "p214",
+          "start": "p213",
+          "type": "line"
+        },
+        {
+          "end": "p215",
+          "start": "p214",
+          "type": "line"
+        },
+        {
+          "end": "p216",
+          "start": "p215",
+          "type": "line"
+        },
+        {
+          "end": "p217",
+          "start": "p216",
+          "type": "line"
+        },
+        {
+          "end": "p218",
+          "start": "p217",
+          "type": "line"
+        },
+        {
+          "end": "p219",
+          "start": "p218",
+          "type": "line"
+        },
+        {
+          "end": "p220",
+          "start": "p219",
+          "type": "line"
+        },
+        {
+          "end": "p221",
+          "start": "p220",
+          "type": "line"
+        },
+        {
+          "end": "p222",
+          "start": "p221",
+          "type": "line"
+        },
+        {
+          "end": "p223",
+          "start": "p222",
+          "type": "line"
+        },
+        {
+          "end": "p224",
+          "start": "p223",
+          "type": "line"
+        },
+        {
+          "end": "p225",
+          "start": "p224",
+          "type": "line"
+        },
+        {
+          "end": "p226",
+          "start": "p225",
+          "type": "line"
+        },
+        {
+          "end": "p227",
+          "start": "p226",
+          "type": "line"
+        },
+        {
+          "end": "p228",
+          "start": "p227",
+          "type": "line"
+        },
+        {
+          "end": "p229",
+          "start": "p228",
+          "type": "line"
+        },
+        {
+          "end": "p230",
+          "start": "p229",
+          "type": "line"
+        },
+        {
+          "end": "p231",
+          "start": "p230",
+          "type": "line"
+        },
+        {
+          "end": "p232",
+          "start": "p231",
+          "type": "line"
+        },
+        {
+          "end": "p233",
+          "start": "p232",
+          "type": "line"
+        },
+        {
+          "end": "p234",
+          "start": "p233",
+          "type": "line"
+        },
+        {
+          "end": "p235",
+          "start": "p234",
+          "type": "line"
+        },
+        {
+          "end": "p236",
+          "start": "p235",
+          "type": "line"
+        },
+        {
+          "end": "p237",
+          "start": "p236",
+          "type": "line"
+        },
+        {
+          "end": "p238",
+          "start": "p237",
+          "type": "line"
+        },
+        {
+          "end": "p239",
+          "start": "p238",
+          "type": "line"
+        },
+        {
+          "end": "p240",
+          "start": "p239",
+          "type": "line"
+        },
+        {
+          "end": "p241",
+          "start": "p240",
+          "type": "line"
+        },
+        {
+          "end": "p242",
+          "start": "p241",
+          "type": "line"
+        },
+        {
+          "end": "p243",
+          "start": "p242",
+          "type": "line"
+        },
+        {
+          "end": "p244",
+          "start": "p243",
+          "type": "line"
+        },
+        {
+          "end": "p245",
+          "start": "p244",
+          "type": "line"
+        },
+        {
+          "end": "p246",
+          "start": "p245",
+          "type": "line"
+        },
+        {
+          "end": "p247",
+          "start": "p246",
+          "type": "line"
+        },
+        {
+          "end": "p248",
+          "start": "p247",
+          "type": "line"
+        },
+        {
+          "end": "p249",
+          "start": "p248",
+          "type": "line"
+        },
+        {
+          "end": "p250",
+          "start": "p249",
+          "type": "line"
+        },
+        {
+          "end": "p251",
+          "start": "p250",
+          "type": "line"
+        },
+        {
+          "end": "p252",
+          "start": "p251",
+          "type": "line"
+        },
+        {
+          "end": "p253",
+          "start": "p252",
+          "type": "line"
+        },
+        {
+          "end": "p254",
+          "start": "p253",
+          "type": "line"
+        },
+        {
+          "end": "p255",
+          "start": "p254",
+          "type": "line"
+        },
+        {
+          "end": "p256",
+          "start": "p255",
+          "type": "line"
+        },
+        {
+          "end": "p257",
+          "start": "p256",
+          "type": "line"
+        },
+        {
+          "end": "p258",
+          "start": "p257",
+          "type": "line"
+        },
+        {
+          "end": "p259",
+          "start": "p258",
+          "type": "line"
+        },
+        {
+          "end": "p260",
+          "start": "p259",
+          "type": "line"
+        },
+        {
+          "end": "p261",
+          "start": "p260",
+          "type": "line"
+        },
+        {
+          "end": "p262",
+          "start": "p261",
+          "type": "line"
+        },
+        {
+          "end": "p263",
+          "start": "p262",
+          "type": "line"
+        },
+        {
+          "end": "p264",
+          "start": "p263",
+          "type": "line"
+        },
+        {
+          "end": "p265",
+          "start": "p264",
+          "type": "line"
+        },
+        {
+          "end": "p266",
+          "start": "p265",
+          "type": "line"
+        },
+        {
+          "end": "p267",
+          "start": "p266",
+          "type": "line"
+        },
+        {
+          "end": "p268",
+          "start": "p267",
+          "type": "line"
+        },
+        {
+          "end": "p269",
+          "start": "p268",
+          "type": "line"
+        },
+        {
+          "end": "p270",
+          "start": "p269",
+          "type": "line"
+        },
+        {
+          "end": "p271",
+          "start": "p270",
+          "type": "line"
+        },
+        {
+          "end": "p272",
+          "start": "p271",
+          "type": "line"
+        },
+        {
+          "end": "p273",
+          "start": "p272",
+          "type": "line"
+        },
+        {
+          "end": "p274",
+          "start": "p273",
+          "type": "line"
+        },
+        {
+          "end": "p275",
+          "start": "p274",
+          "type": "line"
+        },
+        {
+          "end": "p276",
+          "start": "p275",
+          "type": "line"
+        },
+        {
+          "end": "p96",
+          "start": "p276",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_14",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "end": "p278",
+          "start": "p277",
+          "type": "line"
+        },
+        {
+          "end": "p279",
+          "start": "p278",
+          "type": "line"
+        },
+        {
+          "end": "p280",
+          "start": "p279",
+          "type": "line"
+        },
+        {
+          "end": "p281",
+          "start": "p280",
+          "type": "line"
+        },
+        {
+          "end": "p282",
+          "start": "p281",
+          "type": "line"
+        },
+        {
+          "end": "p283",
+          "start": "p282",
+          "type": "line"
+        },
+        {
+          "end": "p284",
+          "start": "p283",
+          "type": "line"
+        },
+        {
+          "end": "p285",
+          "start": "p284",
+          "type": "line"
+        },
+        {
+          "end": "p286",
+          "start": "p285",
+          "type": "line"
+        },
+        {
+          "end": "p287",
+          "start": "p286",
+          "type": "line"
+        },
+        {
+          "end": "p288",
+          "start": "p287",
+          "type": "line"
+        },
+        {
+          "end": "p289",
+          "start": "p288",
+          "type": "line"
+        },
+        {
+          "end": "p290",
+          "start": "p289",
+          "type": "line"
+        },
+        {
+          "end": "p291",
+          "start": "p290",
+          "type": "line"
+        },
+        {
+          "end": "p292",
+          "start": "p291",
+          "type": "line"
+        },
+        {
+          "end": "p293",
+          "start": "p292",
+          "type": "line"
+        },
+        {
+          "end": "p294",
+          "start": "p293",
+          "type": "line"
+        },
+        {
+          "end": "p295",
+          "start": "p294",
+          "type": "line"
+        },
+        {
+          "end": "p296",
+          "start": "p295",
+          "type": "line"
+        },
+        {
+          "end": "p297",
+          "start": "p296",
+          "type": "line"
+        },
+        {
+          "end": "p298",
+          "start": "p297",
+          "type": "line"
+        },
+        {
+          "end": "p299",
+          "start": "p298",
+          "type": "line"
+        },
+        {
+          "end": "p300",
+          "start": "p299",
+          "type": "line"
+        },
+        {
+          "end": "p301",
+          "start": "p300",
+          "type": "line"
+        },
+        {
+          "end": "p302",
+          "start": "p301",
+          "type": "line"
+        },
+        {
+          "end": "p303",
+          "start": "p302",
+          "type": "line"
+        },
+        {
+          "end": "p304",
+          "start": "p303",
+          "type": "line"
+        },
+        {
+          "end": "p305",
+          "start": "p304",
+          "type": "line"
+        },
+        {
+          "end": "p306",
+          "start": "p305",
+          "type": "line"
+        },
+        {
+          "end": "p277",
+          "start": "p306",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_15",
+      "role": "hole"
+    },
+    {
+      "entities": [
+        {
+          "end": "p308",
+          "start": "p307",
+          "type": "line"
+        },
+        {
+          "end": "p309",
+          "start": "p308",
+          "type": "line"
+        },
+        {
+          "end": "p310",
+          "start": "p309",
+          "type": "line"
+        },
+        {
+          "end": "p311",
+          "start": "p310",
+          "type": "line"
+        },
+        {
+          "end": "p312",
+          "start": "p311",
+          "type": "line"
+        },
+        {
+          "end": "p313",
+          "start": "p312",
+          "type": "line"
+        },
+        {
+          "end": "p314",
+          "start": "p313",
+          "type": "line"
+        },
+        {
+          "end": "p315",
+          "start": "p314",
+          "type": "line"
+        },
+        {
+          "end": "p316",
+          "start": "p315",
+          "type": "line"
+        },
+        {
+          "end": "p317",
+          "start": "p316",
+          "type": "line"
+        },
+        {
+          "end": "p318",
+          "start": "p317",
+          "type": "line"
+        },
+        {
+          "end": "p319",
+          "start": "p318",
+          "type": "line"
+        },
+        {
+          "end": "p320",
+          "start": "p319",
+          "type": "line"
+        },
+        {
+          "end": "p321",
+          "start": "p320",
+          "type": "line"
+        },
+        {
+          "end": "p322",
+          "start": "p321",
+          "type": "line"
+        },
+        {
+          "end": "p323",
+          "start": "p322",
+          "type": "line"
+        },
+        {
+          "end": "p324",
+          "start": "p323",
+          "type": "line"
+        },
+        {
+          "end": "p325",
+          "start": "p324",
+          "type": "line"
+        },
+        {
+          "end": "p326",
+          "start": "p325",
+          "type": "line"
+        },
+        {
+          "end": "p327",
+          "start": "p326",
+          "type": "line"
+        },
+        {
+          "end": "p328",
+          "start": "p327",
+          "type": "line"
+        },
+        {
+          "end": "p329",
+          "start": "p328",
+          "type": "line"
+        },
+        {
+          "end": "p330",
+          "start": "p329",
+          "type": "line"
+        },
+        {
+          "end": "p331",
+          "start": "p330",
+          "type": "line"
+        },
+        {
+          "end": "p332",
+          "start": "p331",
+          "type": "line"
+        },
+        {
+          "end": "p333",
+          "start": "p332",
+          "type": "line"
+        },
+        {
+          "end": "p307",
+          "start": "p333",
+          "type": "line"
+        }
+      ],
+      "name": "manila_region_boundary_16",
+      "role": "hole"
+    }
+  ],
+  "depth_mm": 5.0,
+  "dimension_values_mm": {},
+  "image": "C:\\Users\\alana\\projects\\MEEN 491H\\solidworks_llama_project\\solidworks_llama\\input_pattern.png",
+  "known_distance_mm": 29.0,
+  "mm_per_pixel": 0.09323132284561662,
+  "origin_pixels": {
+    "x": 17.421333333333333,
+    "y": 288.29333333333335
+  },
+  "plane": "Front Plane",
+  "points_meters": [
+    {
+      "id": "p1",
+      "x": 0.014411573577044956,
+      "y": -0.025704497250688806,
+      "z": 0
+    },
+    {
+      "id": "p2",
+      "x": 0.01431834225419934,
+      "y": -0.026077422542071273,
+      "z": 0
+    },
+    {
+      "id": "p3",
+      "x": 0.014784498868427424,
+      "y": -0.026077422542071273,
+      "z": 0
+    },
+    {
+      "id": "p4",
+      "x": 0.002477964252806029,
+      "y": -0.026077422542071273,
+      "z": 0
+    },
+    {
+      "id": "p5",
+      "x": 0.01375895431712564,
+      "y": -0.026077422542071273,
+      "z": 0
+    },
+    {
+      "id": "p6",
+      "x": 0.014225110931353724,
+      "y": -0.025145109313615105,
+      "z": 0
+    },
+    {
+      "id": "p7",
+      "x": 0.002477964252806029,
+      "y": -0.025238340636460722,
+      "z": 0
+    },
+    {
+      "id": "p8",
+      "x": 0.031379674334947184,
+      "y": -0.015728745706207827,
+      "z": 0
+    },
+    {
+      "id": "p9",
+      "x": 0.02951504787803485,
+      "y": -0.01675429025750961,
+      "z": 0
+    },
+    {
+      "id": "p10",
+      "x": 0.029328585232343617,
+      "y": -0.02253463227393784,
+      "z": 0
+    },
+    {
+      "id": "p11",
+      "x": 0.031379674334947184,
+      "y": -0.02253463227393784,
+      "z": 0
+    },
+    {
+      "id": "p12",
+      "x": -3.928146402561979e-05,
+      "y": -0.005193606224653148,
+      "z": 0
+    },
+    {
+      "id": "p13",
+      "x": -0.0016242139524011024,
+      "y": -0.00761762061863918,
+      "z": 0
+    },
+    {
+      "id": "p14",
+      "x": -0.0016242139524011024,
+      "y": -0.012745343375148096,
+      "z": 0
+    },
+    {
+      "id": "p15",
+      "x": -0.0001325127868712364,
+      "y": -0.013584425280758644,
+      "z": 0
+    },
+    {
+      "id": "p16",
+      "x": 0.001265957055813013,
+      "y": -0.012185955438074395,
+      "z": 0
+    },
+    {
+      "id": "p17",
+      "x": -0.0001325127868712364,
+      "y": -0.009109321784169047,
+      "z": 0
+    },
+    {
+      "id": "p18",
+      "x": 0.0018253449928867127,
+      "y": -0.012185955438074395,
+      "z": 0
+    },
+    {
+      "id": "p19",
+      "x": -3.928146402561979e-05,
+      "y": -0.014143813217832344,
+      "z": 0
+    },
+    {
+      "id": "p20",
+      "x": -0.0016242139524011024,
+      "y": -0.013304731312221795,
+      "z": 0
+    },
+    {
+      "id": "p21",
+      "x": -0.0016242139524011024,
+      "y": -0.01582197702905344,
+      "z": 0
+    },
+    {
+      "id": "p22",
+      "x": -0.00041220675540808627,
+      "y": -0.01647459628897276,
+      "z": 0
+    },
+    {
+      "id": "p23",
+      "x": 0.004808747323946444,
+      "y": -0.013584425280758644,
+      "z": 0
+    },
+    {
+      "id": "p24",
+      "x": 0.0297947418465717,
+      "y": -0.0005320400823723173,
+      "z": 0
+    },
+    {
+      "id": "p25",
+      "x": 0.023641474538761004,
+      "y": -0.010321328981162062,
+      "z": 0
+    },
+    {
+      "id": "p26",
+      "x": 0.02942181655518923,
+      "y": -0.01377088792644988,
+      "z": 0
+    },
+    {
+      "id": "p27",
+      "x": 0.031379674334947184,
+      "y": -0.012838574697993712,
+      "z": 0
+    },
+    {
+      "id": "p28",
+      "x": 0.031379674334947184,
+      "y": -0.011999492792383161,
+      "z": 0
+    },
+    {
+      "id": "p29",
+      "x": 0.029235353909498,
+      "y": -0.008922859138477813,
+      "z": 0
+    },
+    {
+      "id": "p30",
+      "x": 0.02942181655518923,
+      "y": -0.00845670252424973,
+      "z": 0
+    },
+    {
+      "id": "p31",
+      "x": 0.029887973169417315,
+      "y": -0.008736396492786581,
+      "z": 0
+    },
+    {
+      "id": "p32",
+      "x": 0.031379674334947184,
+      "y": -0.01125364220961823,
+      "z": 0
+    },
+    {
+      "id": "p33",
+      "x": 0.031379674334947184,
+      "y": -0.00761762061863918,
+      "z": 0
+    },
+    {
+      "id": "p34",
+      "x": 0.02970151052372608,
+      "y": -0.004913912256116299,
+      "z": 0
+    },
+    {
+      "id": "p35",
+      "x": 0.02671810819266635,
+      "y": -0.00957547839839713,
+      "z": 0
+    },
+    {
+      "id": "p36",
+      "x": 0.028489503326733067,
+      "y": -0.01097394824108138,
+      "z": 0
+    },
+    {
+      "id": "p37",
+      "x": 0.027930115389659366,
+      "y": -0.01097394824108138,
+      "z": 0
+    },
+    {
+      "id": "p38",
+      "x": 0.026065488932747034,
+      "y": -0.009668709721242747,
+      "z": 0
+    },
+    {
+      "id": "p39",
+      "x": 0.02951504787803485,
+      "y": -0.004074830350505749,
+      "z": 0
+    },
+    {
+      "id": "p40",
+      "x": 0.031379674334947184,
+      "y": -0.006778538713028631,
+      "z": 0
+    },
+    {
+      "id": "p41",
+      "x": 0.031379674334947184,
+      "y": -0.003049285799203966,
+      "z": 0
+    },
+    {
+      "id": "p42",
+      "x": 0.03007443581510855,
+      "y": 0.00012057917754699913,
+      "z": 0
+    },
+    {
+      "id": "p43",
+      "x": 0.031379674334947184,
+      "y": -0.0021169725707477997,
+      "z": 0
+    },
+    {
+      "id": "p44",
+      "x": 0.031379674334947184,
+      "y": 0.00012057917754699913,
+      "z": 0
+    },
+    {
+      "id": "p45",
+      "x": -0.00041220675540808627,
+      "y": 0.00012057917754699913,
+      "z": 0
+    },
+    {
+      "id": "p46",
+      "x": -0.0016242139524011024,
+      "y": 0.00012057917754699913,
+      "z": 0
+    },
+    {
+      "id": "p47",
+      "x": -0.0016242139524011024,
+      "y": -0.0021169725707477997,
+      "z": 0
+    },
+    {
+      "id": "p48",
+      "x": 0.031379674334947184,
+      "y": 0.002358130925841798,
+      "z": 0
+    },
+    {
+      "id": "p49",
+      "x": 0.0303541297836454,
+      "y": 0.0004935044689294656,
+      "z": 0
+    },
+    {
+      "id": "p50",
+      "x": 0.031379674334947184,
+      "y": 0.0004935044689294656,
+      "z": 0
+    },
+    {
+      "id": "p51",
+      "x": -0.0016242139524011024,
+      "y": 0.0024513622486874147,
+      "z": 0
+    },
+    {
+      "id": "p52",
+      "x": -0.0016242139524011024,
+      "y": 0.0005867357917750823,
+      "z": 0
+    },
+    {
+      "id": "p53",
+      "x": -0.0006919007239449362,
+      "y": 0.0004935044689294656,
+      "z": 0
+    },
+    {
+      "id": "p54",
+      "x": 5.3949858819996836e-05,
+      "y": 0.014384971572926343,
+      "z": 0
+    },
+    {
+      "id": "p55",
+      "x": -0.0016242139524011024,
+      "y": 0.013545889667315793,
+      "z": 0
+    },
+    {
+      "id": "p56",
+      "x": -0.0016242139524011024,
+      "y": 0.012613576438859625,
+      "z": 0
+    },
+    {
+      "id": "p57",
+      "x": -0.0005986694010993196,
+      "y": 0.010935412627638526,
+      "z": 0
+    },
+    {
+      "id": "p58",
+      "x": -0.0008783633696361694,
+      "y": 0.010655718659101678,
+      "z": 0
+    },
+    {
+      "id": "p59",
+      "x": -0.0016242139524011024,
+      "y": 0.011867725856094694,
+      "z": 0
+    },
+    {
+      "id": "p60",
+      "x": -0.0016242139524011024,
+      "y": 0.008045241619424413,
+      "z": 0
+    },
+    {
+      "id": "p61",
+      "x": -0.0001325127868712364,
+      "y": 0.005527995902592763,
+      "z": 0
+    },
+    {
+      "id": "p62",
+      "x": 0.002571195575651646,
+      "y": 0.009909868076336745,
+      "z": 0
+    },
+    {
+      "id": "p63",
+      "x": 0.0013591883786586297,
+      "y": 0.010376024690564827,
+      "z": 0
+    },
+    {
+      "id": "p64",
+      "x": 0.002944120867034112,
+      "y": 0.01056248733625606,
+      "z": 0
+    },
+    {
+      "id": "p65",
+      "x": 0.0032238148355709616,
+      "y": 0.010096330722027976,
+      "z": 0
+    },
+    {
+      "id": "p66",
+      "x": -3.928146402561979e-05,
+      "y": 0.004782145319827831,
+      "z": 0
+    },
+    {
+      "id": "p67",
+      "x": -0.0016242139524011024,
+      "y": 0.007299391036659479,
+      "z": 0
+    },
+    {
+      "id": "p68",
+      "x": -0.0016242139524011024,
+      "y": 0.003103981508606731,
+      "z": 0
+    },
+    {
+      "id": "p69",
+      "x": -0.0001325127868712364,
+      "y": 0.0007731984374663155,
+      "z": 0
+    },
+    {
+      "id": "p70",
+      "x": 0.005834291875248227,
+      "y": 0.01084218130479291,
+      "z": 0
+    },
+    {
+      "id": "p71",
+      "x": 0.030167667137954164,
+      "y": 0.017088679935449224,
+      "z": 0
+    },
+    {
+      "id": "p72",
+      "x": 0.024760250412908403,
+      "y": 0.014105277604389493,
+      "z": 0
+    },
+    {
+      "id": "p73",
+      "x": 0.0297947418465717,
+      "y": 0.0050618392883646805,
+      "z": 0
+    },
+    {
+      "id": "p74",
+      "x": 0.031379674334947184,
+      "y": 0.007299391036659479,
+      "z": 0
+    },
+    {
+      "id": "p75",
+      "x": 0.031379674334947184,
+      "y": 0.011681263210403461,
+      "z": 0
+    },
+    {
+      "id": "p76",
+      "x": 0.029981204492262933,
+      "y": 0.012427113793168394,
+      "z": 0
+    },
+    {
+      "id": "p77",
+      "x": 0.030167667137954164,
+      "y": 0.01280003908455086,
+      "z": 0
+    },
+    {
+      "id": "p78",
+      "x": 0.031379674334947184,
+      "y": 0.012147419824631543,
+      "z": 0
+    },
+    {
+      "id": "p79",
+      "x": 0.031379674334947184,
+      "y": 0.014012046281543875,
+      "z": 0
+    },
+    {
+      "id": "p80",
+      "x": 0.029887973169417315,
+      "y": 0.014664665541463192,
+      "z": 0
+    },
+    {
+      "id": "p81",
+      "x": 0.027650421421122517,
+      "y": 0.01335942702162456,
+      "z": 0
+    },
+    {
+      "id": "p82",
+      "x": 0.030167667137954164,
+      "y": 0.008697860879343728,
+      "z": 0
+    },
+    {
+      "id": "p83",
+      "x": 0.029981204492262933,
+      "y": 0.008418166910806877,
+      "z": 0
+    },
+    {
+      "id": "p84",
+      "x": 0.0269978021612032,
+      "y": 0.013452658344470176,
+      "z": 0
+    },
+    {
+      "id": "p85",
+      "x": 0.029981204492262933,
+      "y": 0.015224053478536892,
+      "z": 0
+    },
+    {
+      "id": "p86",
+      "x": 0.031379674334947184,
+      "y": 0.014571434218617575,
+      "z": 0
+    },
+    {
+      "id": "p87",
+      "x": 0.031379674334947184,
+      "y": 0.01643606067552991,
+      "z": 0
+    },
+    {
+      "id": "p88",
+      "x": -0.0003189754325624696,
+      "y": 0.023428409888951153,
+      "z": 0
+    },
+    {
+      "id": "p89",
+      "x": -0.0016242139524011024,
+      "y": 0.023428409888951153,
+      "z": 0
+    },
+    {
+      "id": "p90",
+      "x": -0.0016242139524011024,
+      "y": 0.01662252332122114,
+      "z": 0
+    },
+    {
+      "id": "p91",
+      "x": -0.0003189754325624696,
+      "y": 0.01746160522683169,
+      "z": 0
+    },
+    {
+      "id": "p92",
+      "x": 0.01543711812834674,
+      "y": 0.026411812220010888,
+      "z": 0
+    },
+    {
+      "id": "p93",
+      "x": 0.028023346712504983,
+      "y": 0.026505043542856505,
+      "z": 0
+    },
+    {
+      "id": "p94",
+      "x": 0.0281165780353506,
+      "y": 0.02687796883423897,
+      "z": 0
+    },
+    {
+      "id": "p95",
+      "x": 0.01571681209688359,
+      "y": 0.02687796883423897,
+      "z": 0
+    },
+    {
+      "id": "p96",
+      "x": -0.0016242139524011024,
+      "y": 0.02687796883423897,
+      "z": 0
+    },
+    {
+      "id": "p97",
+      "x": -0.0016242139524011024,
+      "y": 0.023987797826024858,
+      "z": 0
+    },
+    {
+      "id": "p98",
+      "x": 0.0001471811816656135,
+      "y": 0.02380133518033362,
+      "z": 0
+    },
+    {
+      "id": "p99",
+      "x": 0.0001471811816656135,
+      "y": 0.017554836549677308,
+      "z": 0
+    },
+    {
+      "id": "p100",
+      "x": 0.005181672615328911,
+      "y": 0.014571434218617575,
+      "z": 0
+    },
+    {
+      "id": "p101",
+      "x": 0.005834291875248227,
+      "y": 0.015037590832845659,
+      "z": 0
+    },
+    {
+      "id": "p102",
+      "x": 0.010775551986065907,
+      "y": 0.023614872534642388,
+      "z": 0
+    },
+    {
+      "id": "p103",
+      "x": 0.004808747323946444,
+      "y": 0.023614872534642388,
+      "z": 0
+    },
+    {
+      "id": "p104",
+      "x": 0.004622284678255211,
+      "y": 0.02081793284927389,
+      "z": 0
+    },
+    {
+      "id": "p105",
+      "x": 0.004342590709718361,
+      "y": 0.020724701526428274,
+      "z": 0
+    },
+    {
+      "id": "p106",
+      "x": 0.004249359386872744,
+      "y": 0.023894566503179237,
+      "z": 0
+    },
+    {
+      "id": "p107",
+      "x": 0.011334939923139607,
+      "y": 0.023894566503179237,
+      "z": 0
+    },
+    {
+      "id": "p108",
+      "x": 0.005647829229556993,
+      "y": 0.014012046281543875,
+      "z": 0
+    },
+    {
+      "id": "p109",
+      "x": 0.0001471811816656135,
+      "y": 0.017088679935449224,
+      "z": 0
+    },
+    {
+      "id": "p110",
+      "x": -0.0016242139524011024,
+      "y": 0.01615636670699306,
+      "z": 0
+    },
+    {
+      "id": "p111",
+      "x": -0.0016242139524011024,
+      "y": 0.014012046281543875,
+      "z": 0
+    },
+    {
+      "id": "p112",
+      "x": 5.3949858819996836e-05,
+      "y": 0.014851128187154426,
+      "z": 0
+    },
+    {
+      "id": "p113",
+      "x": 0.006393679812321927,
+      "y": 0.01112187527332976,
+      "z": 0
+    },
+    {
+      "id": "p114",
+      "x": 0.0004268751502024634,
+      "y": 0.0005867357917750823,
+      "z": 0
+    },
+    {
+      "id": "p115",
+      "x": 0.012174021828750157,
+      "y": 0.0005867357917750823,
+      "z": 0
+    },
+    {
+      "id": "p116",
+      "x": 0.012267253151595775,
+      "y": 0.007299391036659479,
+      "z": 0
+    },
+    {
+      "id": "p117",
+      "x": 0.010309395371837825,
+      "y": 0.008418166910806877,
+      "z": 0
+    },
+    {
+      "id": "p118",
+      "x": 0.008910925529153575,
+      "y": 0.00618061516251208,
+      "z": 0
+    },
+    {
+      "id": "p119",
+      "x": 0.00853800023777111,
+      "y": 0.006367077808203313,
+      "z": 0
+    },
+    {
+      "id": "p120",
+      "x": 0.010122932726146592,
+      "y": 0.008977554847880577,
+      "z": 0
+    },
+    {
+      "id": "p121",
+      "x": 0.012733409765823857,
+      "y": 0.0073926223595050964,
+      "z": 0
+    },
+    {
+      "id": "p122",
+      "x": 0.012453715797287006,
+      "y": 0.00012057917754699913,
+      "z": 0
+    },
+    {
+      "id": "p123",
+      "x": 0.0002404125045112301,
+      "y": 0.00021381050039261576,
+      "z": 0
+    },
+    {
+      "id": "p124",
+      "x": 0.006207217166630694,
+      "y": -0.010041635012625212,
+      "z": 0
+    },
+    {
+      "id": "p125",
+      "x": 0.012080790505904541,
+      "y": -0.006685307390183015,
+      "z": 0
+    },
+    {
+      "id": "p126",
+      "x": 0.01180109653736769,
+      "y": -0.004540986964733831,
+      "z": 0
+    },
+    {
+      "id": "p127",
+      "x": 0.008071843623543027,
+      "y": -0.004540986964733831,
+      "z": 0
+    },
+    {
+      "id": "p128",
+      "x": 0.00797861230069741,
+      "y": -0.004074830350505749,
+      "z": 0
+    },
+    {
+      "id": "p129",
+      "x": 0.012080790505904541,
+      "y": -0.004074830350505749,
+      "z": 0
+    },
+    {
+      "id": "p130",
+      "x": 0.01236048447444139,
+      "y": -0.0070582326815654805,
+      "z": 0
+    },
+    {
+      "id": "p131",
+      "x": 0.006113985843785077,
+      "y": -0.010601022949698911,
+      "z": 0
+    },
+    {
+      "id": "p132",
+      "x": -3.928146402561979e-05,
+      "y": -0.000345577436681084,
+      "z": 0
+    },
+    {
+      "id": "p133",
+      "x": -0.0016242139524011024,
+      "y": -0.002862823153512733,
+      "z": 0
+    },
+    {
+      "id": "p134",
+      "x": -0.0016242139524011024,
+      "y": -0.006871770035874247,
+      "z": 0
+    },
+    {
+      "id": "p135",
+      "x": -3.928146402561979e-05,
+      "y": -0.004447755641888216,
+      "z": 0
+    },
+    {
+      "id": "p136",
+      "x": 0.0053681352610201434,
+      "y": -0.013491193957913029,
+      "z": 0
+    },
+    {
+      "id": "p137",
+      "x": 5.3949858819996836e-05,
+      "y": -0.01675429025750961,
+      "z": 0
+    },
+    {
+      "id": "p138",
+      "x": 5.3949858819996836e-05,
+      "y": -0.022441400951092223,
+      "z": 0
+    },
+    {
+      "id": "p139",
+      "x": 0.009936470080455357,
+      "y": -0.022441400951092223,
+      "z": 0
+    },
+    {
+      "id": "p140",
+      "x": 0.007698918332160559,
+      "y": -0.018525685391576324,
+      "z": 0
+    },
+    {
+      "id": "p141",
+      "x": 0.00685983642655001,
+      "y": -0.01805952877734824,
+      "z": 0
+    },
+    {
+      "id": "p142",
+      "x": 0.007605687009314943,
+      "y": -0.017686603485965777,
+      "z": 0
+    },
+    {
+      "id": "p143",
+      "x": 0.010589089340374676,
+      "y": -0.022721094919629075,
+      "z": 0
+    },
+    {
+      "id": "p144",
+      "x": -0.000225744109716853,
+      "y": -0.022907557565320306,
+      "z": 0
+    },
+    {
+      "id": "p145",
+      "x": -0.00041220675540808627,
+      "y": -0.01703398422604646,
+      "z": 0
+    },
+    {
+      "id": "p146",
+      "x": -0.0016242139524011024,
+      "y": -0.016288133643281525,
+      "z": 0
+    },
+    {
+      "id": "p147",
+      "x": -0.0016242139524011024,
+      "y": -0.026077422542071273,
+      "z": 0
+    },
+    {
+      "id": "p148",
+      "x": 0.0020118076385779457,
+      "y": -0.026077422542071273,
+      "z": 0
+    },
+    {
+      "id": "p149",
+      "x": 0.0021050389614235623,
+      "y": -0.02477218402223264,
+      "z": 0
+    },
+    {
+      "id": "p150",
+      "x": 0.013945416962816874,
+      "y": -0.02477218402223264,
+      "z": 0
+    },
+    {
+      "id": "p151",
+      "x": 0.00825830626923426,
+      "y": -0.01507612644628851,
+      "z": 0
+    },
+    {
+      "id": "p152",
+      "x": 0.002571195575651646,
+      "y": -0.018245991423039478,
+      "z": 0
+    },
+    {
+      "id": "p153",
+      "x": 0.003130583512725345,
+      "y": -0.020203849202797424,
+      "z": 0
+    },
+    {
+      "id": "p154",
+      "x": 0.00630044848947631,
+      "y": -0.020203849202797424,
+      "z": 0
+    },
+    {
+      "id": "p155",
+      "x": 0.006393679812321927,
+      "y": -0.020670005817025508,
+      "z": 0
+    },
+    {
+      "id": "p156",
+      "x": 0.002757658221342879,
+      "y": -0.020483543171334277,
+      "z": 0
+    },
+    {
+      "id": "p157",
+      "x": 0.0020118076385779457,
+      "y": -0.01805952877734824,
+      "z": 0
+    },
+    {
+      "id": "p158",
+      "x": 0.00825830626923426,
+      "y": -0.01451673850921481,
+      "z": 0
+    },
+    {
+      "id": "p159",
+      "x": 0.014598036222736189,
+      "y": -0.02467895269938702,
+      "z": 0
+    },
+    {
+      "id": "p160",
+      "x": 0.02037837823916442,
+      "y": -0.01507612644628851,
+      "z": 0
+    },
+    {
+      "id": "p161",
+      "x": 0.02037837823916442,
+      "y": -0.014703201154906044,
+      "z": 0
+    },
+    {
+      "id": "p162",
+      "x": 0.014598036222736189,
+      "y": -0.01153333617815508,
+      "z": 0
+    },
+    {
+      "id": "p163",
+      "x": 0.013013103734360706,
+      "y": -0.012745343375148096,
+      "z": 0
+    },
+    {
+      "id": "p164",
+      "x": 0.014784498868427424,
+      "y": -0.01582197702905344,
+      "z": 0
+    },
+    {
+      "id": "p165",
+      "x": 0.014504804899890573,
+      "y": -0.016008439674744676,
+      "z": 0
+    },
+    {
+      "id": "p166",
+      "x": 0.012546947120132624,
+      "y": -0.012745343375148096,
+      "z": 0
+    },
+    {
+      "id": "p167",
+      "x": 0.014691267545581806,
+      "y": -0.01097394824108138,
+      "z": 0
+    },
+    {
+      "id": "p168",
+      "x": 0.02093776617623812,
+      "y": -0.014609969832060428,
+      "z": 0
+    },
+    {
+      "id": "p169",
+      "x": 0.01515742415980989,
+      "y": -0.02467895269938702,
+      "z": 0
+    },
+    {
+      "id": "p170",
+      "x": 0.026624876869820735,
+      "y": -0.02467895269938702,
+      "z": 0
+    },
+    {
+      "id": "p171",
+      "x": 0.02671810819266635,
+      "y": -0.018245991423039478,
+      "z": 0
+    },
+    {
+      "id": "p172",
+      "x": 0.024760250412908403,
+      "y": -0.017406909517428924,
+      "z": 0
+    },
+    {
+      "id": "p173",
+      "x": 0.023921168507297853,
+      "y": -0.018805379360113176,
+      "z": 0
+    },
+    {
+      "id": "p174",
+      "x": 0.023268549247378537,
+      "y": -0.019085073328650025,
+      "z": 0
+    },
+    {
+      "id": "p175",
+      "x": 0.024667019090062782,
+      "y": -0.016847521580355226,
+      "z": 0
+    },
+    {
+      "id": "p176",
+      "x": 0.027184264806894433,
+      "y": -0.01805952877734824,
+      "z": 0
+    },
+    {
+      "id": "p177",
+      "x": 0.026811339515511966,
+      "y": -0.02505187799076949,
+      "z": 0
+    },
+    {
+      "id": "p178",
+      "x": 0.01487773019127304,
+      "y": -0.025145109313615105,
+      "z": 0
+    },
+    {
+      "id": "p179",
+      "x": 0.015250655482655506,
+      "y": -0.026077422542071273,
+      "z": 0
+    },
+    {
+      "id": "p180",
+      "x": 0.031379674334947184,
+      "y": -0.026077422542071273,
+      "z": 0
+    },
+    {
+      "id": "p181",
+      "x": 0.031379674334947184,
+      "y": -0.022907557565320306,
+      "z": 0
+    },
+    {
+      "id": "p182",
+      "x": 0.029048891263806765,
+      "y": -0.022907557565320306,
+      "z": 0
+    },
+    {
+      "id": "p183",
+      "x": 0.028862428618115533,
+      "y": -0.022627863596783458,
+      "z": 0
+    },
+    {
+      "id": "p184",
+      "x": 0.02895565994096115,
+      "y": -0.01694075290320084,
+      "z": 0
+    },
+    {
+      "id": "p185",
+      "x": 0.0242008624758347,
+      "y": -0.01423704454067796,
+      "z": 0
+    },
+    {
+      "id": "p186",
+      "x": 0.01907313971932579,
+      "y": -0.02253463227393784,
+      "z": 0
+    },
+    {
+      "id": "p187",
+      "x": 0.024014399830143467,
+      "y": -0.022441400951092223,
+      "z": 0
+    },
+    {
+      "id": "p188",
+      "x": 0.023268549247378537,
+      "y": -0.02150908772263606,
+      "z": 0
+    },
+    {
+      "id": "p189",
+      "x": 0.02345501189306977,
+      "y": -0.021136162431253592,
+      "z": 0
+    },
+    {
+      "id": "p190",
+      "x": 0.024760250412908403,
+      "y": -0.02281432624247469,
+      "z": 0
+    },
+    {
+      "id": "p191",
+      "x": 0.018606983105097705,
+      "y": -0.023000788888165924,
+      "z": 0
+    },
+    {
+      "id": "p192",
+      "x": 0.018327289136560853,
+      "y": -0.022721094919629075,
+      "z": 0
+    },
+    {
+      "id": "p193",
+      "x": 0.023827937184452235,
+      "y": -0.01367765660360426,
+      "z": 0
+    },
+    {
+      "id": "p194",
+      "x": 0.02895565994096115,
+      "y": -0.01647459628897276,
+      "z": 0
+    },
+    {
+      "id": "p195",
+      "x": 0.031379674334947184,
+      "y": -0.015262589091979743,
+      "z": 0
+    },
+    {
+      "id": "p196",
+      "x": 0.031379674334947184,
+      "y": -0.013304731312221795,
+      "z": 0
+    },
+    {
+      "id": "p197",
+      "x": 0.029235353909498,
+      "y": -0.01423704454067796,
+      "z": 0
+    },
+    {
+      "id": "p198",
+      "x": 0.023082086601687302,
+      "y": -0.010507791626853296,
+      "z": 0
+    },
+    {
+      "id": "p199",
+      "x": 0.029235353909498,
+      "y": -0.00015911479098985073,
+      "z": 0
+    },
+    {
+      "id": "p200",
+      "x": 0.01730174458525907,
+      "y": -0.00015911479098985073,
+      "z": 0
+    },
+    {
+      "id": "p201",
+      "x": 0.017208513262413454,
+      "y": -0.006871770035874247,
+      "z": 0
+    },
+    {
+      "id": "p202",
+      "x": 0.019352833687862638,
+      "y": -0.007990545910021647,
+      "z": 0
+    },
+    {
+      "id": "p203",
+      "x": 0.020844534853392504,
+      "y": -0.005380068870344382,
+      "z": 0
+    },
+    {
+      "id": "p204",
+      "x": 0.021310691467620588,
+      "y": -0.0056597628388812314,
+      "z": 0
+    },
+    {
+      "id": "p205",
+      "x": 0.019446065010708252,
+      "y": -0.008549933847095346,
+      "z": 0
+    },
+    {
+      "id": "p206",
+      "x": 0.01674235664818537,
+      "y": -0.006965001358719865,
+      "z": 0
+    },
+    {
+      "id": "p207",
+      "x": 0.017022050616722222,
+      "y": 0.00021381050039261576,
+      "z": 0
+    },
+    {
+      "id": "p208",
+      "x": 0.029235353909498,
+      "y": 0.00021381050039261576,
+      "z": 0
+    },
+    {
+      "id": "p209",
+      "x": 0.02336178057022415,
+      "y": 0.010655718659101678,
+      "z": 0
+    },
+    {
+      "id": "p210",
+      "x": 0.01730174458525907,
+      "y": 0.007299391036659479,
+      "z": 0
+    },
+    {
+      "id": "p211",
+      "x": 0.01730174458525907,
+      "y": 0.004782145319827831,
+      "z": 0
+    },
+    {
+      "id": "p212",
+      "x": 0.021683616759003054,
+      "y": 0.004782145319827831,
+      "z": 0
+    },
+    {
+      "id": "p213",
+      "x": 0.02187007940469429,
+      "y": 0.005248301934055913,
+      "z": 0
+    },
+    {
+      "id": "p214",
+      "x": 0.02233623601892237,
+      "y": 0.0045956826741365975,
+      "z": 0
+    },
+    {
+      "id": "p215",
+      "x": 0.022149773373231135,
+      "y": 0.004315988705599748,
+      "z": 0
+    },
+    {
+      "id": "p216",
+      "x": 0.016928819293876605,
+      "y": 0.004409220028445363,
+      "z": 0
+    },
+    {
+      "id": "p217",
+      "x": 0.017022050616722222,
+      "y": 0.007672316328041946,
+      "z": 0
+    },
+    {
+      "id": "p218",
+      "x": 0.023548243215915386,
+      "y": 0.01112187527332976,
+      "z": 0
+    },
+    {
+      "id": "p219",
+      "x": 0.02951504787803485,
+      "y": 0.0005867357917750823,
+      "z": 0
+    },
+    {
+      "id": "p220",
+      "x": 0.031379674334947184,
+      "y": 0.003197212831452348,
+      "z": 0
+    },
+    {
+      "id": "p221",
+      "x": 0.031379674334947184,
+      "y": 0.0064603091310489295,
+      "z": 0
+    },
+    {
+      "id": "p222",
+      "x": 0.029887973169417315,
+      "y": 0.00422275738275413,
+      "z": 0
+    },
+    {
+      "id": "p223",
+      "x": 0.0242008624758347,
+      "y": 0.01391881495869826,
+      "z": 0
+    },
+    {
+      "id": "p224",
+      "x": 0.024387325121525937,
+      "y": 0.014478202895771959,
+      "z": 0
+    },
+    {
+      "id": "p225",
+      "x": 0.0297947418465717,
+      "y": 0.01746160522683169,
+      "z": 0
+    },
+    {
+      "id": "p226",
+      "x": 0.029887973169417315,
+      "y": 0.023894566503179237,
+      "z": 0
+    },
+    {
+      "id": "p227",
+      "x": 0.01907313971932579,
+      "y": 0.02380133518033362,
+      "z": 0
+    },
+    {
+      "id": "p228",
+      "x": 0.02233623601892237,
+      "y": 0.018207455809596623,
+      "z": 0
+    },
+    {
+      "id": "p229",
+      "x": 0.02597225760990142,
+      "y": 0.02025854491220019,
+      "z": 0
+    },
+    {
+      "id": "p230",
+      "x": 0.026345182901283883,
+      "y": 0.02007208226650896,
+      "z": 0
+    },
+    {
+      "id": "p231",
+      "x": 0.024107631152989088,
+      "y": 0.018487149778133476,
+      "z": 0
+    },
+    {
+      "id": "p232",
+      "x": 0.022149773373231135,
+      "y": 0.017648067872522925,
+      "z": 0
+    },
+    {
+      "id": "p233",
+      "x": 0.01842052045940647,
+      "y": 0.024081029148870472,
+      "z": 0
+    },
+    {
+      "id": "p234",
+      "x": 0.030167667137954164,
+      "y": 0.02436072311740732,
+      "z": 0
+    },
+    {
+      "id": "p235",
+      "x": 0.03026089846079978,
+      "y": 0.017554836549677308,
+      "z": 0
+    },
+    {
+      "id": "p236",
+      "x": 0.031379674334947184,
+      "y": 0.016995448612603607,
+      "z": 0
+    },
+    {
+      "id": "p237",
+      "x": 0.031379674334947184,
+      "y": 0.02687796883423897,
+      "z": 0
+    },
+    {
+      "id": "p238",
+      "x": 0.02858273464957868,
+      "y": 0.02687796883423897,
+      "z": 0
+    },
+    {
+      "id": "p239",
+      "x": 0.02858273464957868,
+      "y": 0.026132118251474035,
+      "z": 0
+    },
+    {
+      "id": "p240",
+      "x": 0.015530349451192355,
+      "y": 0.025852424282937186,
+      "z": 0
+    },
+    {
+      "id": "p241",
+      "x": 0.021403922790466205,
+      "y": 0.015410516124228125,
+      "z": 0
+    },
+    {
+      "id": "p242",
+      "x": 0.027836884066813748,
+      "y": 0.01895330639236156,
+      "z": 0
+    },
+    {
+      "id": "p243",
+      "x": 0.027836884066813748,
+      "y": 0.021843477400575673,
+      "z": 0
+    },
+    {
+      "id": "p244",
+      "x": 0.02261592998745922,
+      "y": 0.021843477400575673,
+      "z": 0
+    },
+    {
+      "id": "p245",
+      "x": 0.02317531792453292,
+      "y": 0.02081793284927389,
+      "z": 0
+    },
+    {
+      "id": "p246",
+      "x": 0.022895623955996067,
+      "y": 0.02053823888073704,
+      "z": 0
+    },
+    {
+      "id": "p247",
+      "x": 0.02205654205038552,
+      "y": 0.021843477400575673,
+      "z": 0
+    },
+    {
+      "id": "p248",
+      "x": 0.022243004696076752,
+      "y": 0.022309634014803757,
+      "z": 0
+    },
+    {
+      "id": "p249",
+      "x": 0.028303040681041832,
+      "y": 0.022216402691958136,
+      "z": 0
+    },
+    {
+      "id": "p250",
+      "x": 0.028209809358196218,
+      "y": 0.018673612423824707,
+      "z": 0
+    },
+    {
+      "id": "p251",
+      "x": 0.02149715411331182,
+      "y": 0.014851128187154426,
+      "z": 0
+    },
+    {
+      "id": "p252",
+      "x": 0.015064192836964273,
+      "y": 0.025572730314400337,
+      "z": 0
+    },
+    {
+      "id": "p253",
+      "x": 0.008910925529153575,
+      "y": 0.015224053478536892,
+      "z": 0
+    },
+    {
+      "id": "p254",
+      "x": 0.009283850820536042,
+      "y": 0.014664665541463192,
+      "z": 0
+    },
+    {
+      "id": "p255",
+      "x": 0.014970961514118655,
+      "y": 0.011588031887557844,
+      "z": 0
+    },
+    {
+      "id": "p256",
+      "x": 0.017208513262413454,
+      "y": 0.012893270407396476,
+      "z": 0
+    },
+    {
+      "id": "p257",
+      "x": 0.01515742415980989,
+      "y": 0.01662252332122114,
+      "z": 0
+    },
+    {
+      "id": "p258",
+      "x": 0.014504804899890573,
+      "y": 0.016902217289757993,
+      "z": 0
+    },
+    {
+      "id": "p259",
+      "x": 0.015064192836964273,
+      "y": 0.017554836549677308,
+      "z": 0
+    },
+    {
+      "id": "p260",
+      "x": 0.017767901199487155,
+      "y": 0.01280003908455086,
+      "z": 0
+    },
+    {
+      "id": "p261",
+      "x": 0.015064192836964273,
+      "y": 0.01112187527332976,
+      "z": 0
+    },
+    {
+      "id": "p262",
+      "x": 0.008351537592079876,
+      "y": 0.014851128187154426,
+      "z": 0
+    },
+    {
+      "id": "p263",
+      "x": 0.014504804899890573,
+      "y": 0.02566596163724595,
+      "z": 0
+    },
+    {
+      "id": "p264",
+      "x": 0.002571195575651646,
+      "y": 0.02566596163724595,
+      "z": 0
+    },
+    {
+      "id": "p265",
+      "x": 0.002384732929960412,
+      "y": 0.019885619620817724,
+      "z": 0
+    },
+    {
+      "id": "p266",
+      "x": 0.002664426898497262,
+      "y": 0.01858038110097909,
+      "z": 0
+    },
+    {
+      "id": "p267",
+      "x": 0.004715516001100828,
+      "y": 0.017554836549677308,
+      "z": 0
+    },
+    {
+      "id": "p268",
+      "x": 0.0069530677493956266,
+      "y": 0.021284089463501975,
+      "z": 0
+    },
+    {
+      "id": "p269",
+      "x": 0.0064869111351675435,
+      "y": 0.02165701475488444,
+      "z": 0
+    },
+    {
+      "id": "p270",
+      "x": 0.00741922436362371,
+      "y": 0.021843477400575673,
+      "z": 0
+    },
+    {
+      "id": "p271",
+      "x": 0.007605687009314943,
+      "y": 0.02156378343203882,
+      "z": 0
+    },
+    {
+      "id": "p272",
+      "x": 0.004808747323946444,
+      "y": 0.016995448612603607,
+      "z": 0
+    },
+    {
+      "id": "p273",
+      "x": 0.0020118076385779457,
+      "y": 0.01858038110097909,
+      "z": 0
+    },
+    {
+      "id": "p274",
+      "x": 0.0021982702842691794,
+      "y": 0.026132118251474035,
+      "z": 0
+    },
+    {
+      "id": "p275",
+      "x": 0.014784498868427424,
+      "y": 0.026132118251474035,
+      "z": 0
+    },
+    {
+      "id": "p276",
+      "x": 0.014411573577044956,
+      "y": 0.02687796883423897,
+      "z": 0
+    },
+    {
+      "id": "p277",
+      "x": 0.025692563641364567,
+      "y": -0.002023741247902183,
+      "z": 0
+    },
+    {
+      "id": "p278",
+      "x": 0.02578579496421018,
+      "y": -0.0024898978621302665,
+      "z": 0
+    },
+    {
+      "id": "p279",
+      "x": 0.02019191559347319,
+      "y": -0.011719798823846312,
+      "z": 0
+    },
+    {
+      "id": "p280",
+      "x": 0.014784498868427424,
+      "y": -0.008829627815632197,
+      "z": 0
+    },
+    {
+      "id": "p281",
+      "x": 0.00965677611191851,
+      "y": -0.011626567501000695,
+      "z": 0
+    },
+    {
+      "id": "p282",
+      "x": 0.014504804899890573,
+      "y": -0.019924155234260575,
+      "z": 0
+    },
+    {
+      "id": "p283",
+      "x": 0.017208513262413454,
+      "y": -0.015728745706207827,
+      "z": 0
+    },
+    {
+      "id": "p284",
+      "x": 0.01655589400249414,
+      "y": -0.014889663800597279,
+      "z": 0
+    },
+    {
+      "id": "p285",
+      "x": 0.017767901199487155,
+      "y": -0.01535582041482536,
+      "z": 0
+    },
+    {
+      "id": "p286",
+      "x": 0.014691267545581806,
+      "y": -0.020670005817025508,
+      "z": 0
+    },
+    {
+      "id": "p287",
+      "x": 0.00909738817484481,
+      "y": -0.01153333617815508,
+      "z": 0
+    },
+    {
+      "id": "p288",
+      "x": 0.014504804899890573,
+      "y": -0.008270239878558497,
+      "z": 0
+    },
+    {
+      "id": "p289",
+      "x": 0.014411573577044956,
+      "y": -0.002583129184975883,
+      "z": 0
+    },
+    {
+      "id": "p290",
+      "x": 0.004342590709718361,
+      "y": -0.0024898978621302665,
+      "z": 0
+    },
+    {
+      "id": "p291",
+      "x": 0.0069530677493956266,
+      "y": -0.0070582326815654805,
+      "z": 0
+    },
+    {
+      "id": "p292",
+      "x": 0.008071843623543027,
+      "y": -0.006778538713028631,
+      "z": 0
+    },
+    {
+      "id": "p293",
+      "x": 0.00797861230069741,
+      "y": -0.007151464004411097,
+      "z": 0
+    },
+    {
+      "id": "p294",
+      "x": 0.00685983642655001,
+      "y": -0.00761762061863918,
+      "z": 0
+    },
+    {
+      "id": "p295",
+      "x": 0.003783202772644661,
+      "y": -0.0023966665392846495,
+      "z": 0
+    },
+    {
+      "id": "p296",
+      "x": 0.0038764340954902782,
+      "y": -0.002023741247902183,
+      "z": 0
+    },
+    {
+      "id": "p297",
+      "x": 0.005461366583865761,
+      "y": -0.0019305099250565665,
+      "z": 0
+    },
+    {
+      "id": "p298",
+      "x": 0.014598036222736189,
+      "y": -0.002023741247902183,
+      "z": 0
+    },
+    {
+      "id": "p299",
+      "x": 0.01487773019127304,
+      "y": -0.0023034352164390333,
+      "z": 0
+    },
+    {
+      "id": "p300",
+      "x": 0.014784498868427424,
+      "y": -0.008363471201404113,
+      "z": 0
+    },
+    {
+      "id": "p301",
+      "x": 0.020005452947781954,
+      "y": -0.01125364220961823,
+      "z": 0
+    },
+    {
+      "id": "p302",
+      "x": 0.025226407027136487,
+      "y": -0.0023966665392846495,
+      "z": 0
+    },
+    {
+      "id": "p303",
+      "x": 0.01963252765639949,
+      "y": -0.0023966665392846495,
+      "z": 0
+    },
+    {
+      "id": "p304",
+      "x": 0.01963252765639949,
+      "y": -0.003795136381968899,
+      "z": 0
+    },
+    {
+      "id": "p305",
+      "x": 0.01907313971932579,
+      "y": -0.0022102038935934167,
+      "z": 0
+    },
+    {
+      "id": "p306",
+      "x": 0.019352833687862638,
+      "y": -0.0019305099250565665,
+      "z": 0
+    },
+    {
+      "id": "p307",
+      "x": 0.01487773019127304,
+      "y": 0.021750246077730052,
+      "z": 0
+    },
+    {
+      "id": "p308",
+      "x": 0.015250655482655506,
+      "y": 0.02165701475488444,
+      "z": 0
+    },
+    {
+      "id": "p309",
+      "x": 0.02075130353054689,
+      "y": 0.01196095717894031,
+      "z": 0
+    },
+    {
+      "id": "p310",
+      "x": 0.015064192836964273,
+      "y": 0.008511398233652495,
+      "z": 0
+    },
+    {
+      "id": "p311",
+      "x": 0.014970961514118655,
+      "y": 0.002637824894378648,
+      "z": 0
+    },
+    {
+      "id": "p312",
+      "x": 0.02541286967282772,
+      "y": 0.002637824894378648,
+      "z": 0
+    },
+    {
+      "id": "p313",
+      "x": 0.022522698664613604,
+      "y": 0.007672316328041946,
+      "z": 0
+    },
+    {
+      "id": "p314",
+      "x": 0.020005452947781954,
+      "y": 0.006646771776740163,
+      "z": 0
+    },
+    {
+      "id": "p315",
+      "x": 0.02261592998745922,
+      "y": 0.008231704265115646,
+      "z": 0
+    },
+    {
+      "id": "p316",
+      "x": 0.026065488932747034,
+      "y": 0.0025445935715330313,
+      "z": 0
+    },
+    {
+      "id": "p317",
+      "x": 0.025879026287055802,
+      "y": 0.002171668280150565,
+      "z": 0
+    },
+    {
+      "id": "p318",
+      "x": 0.014691267545581806,
+      "y": 0.002171668280150565,
+      "z": 0
+    },
+    {
+      "id": "p319",
+      "x": 0.014598036222736189,
+      "y": 0.008511398233652495,
+      "z": 0
+    },
+    {
+      "id": "p320",
+      "x": 0.009470313466227277,
+      "y": 0.011494800564712226,
+      "z": 0
+    },
+    {
+      "id": "p321",
+      "x": 0.004342590709718361,
+      "y": 0.002824287540069881,
+      "z": 0
+    },
+    {
+      "id": "p322",
+      "x": 0.009843238757609741,
+      "y": 0.002824287540069881,
+      "z": 0
+    },
+    {
+      "id": "p323",
+      "x": 0.009283850820536042,
+      "y": 0.004129526059908514,
+      "z": 0
+    },
+    {
+      "id": "p324",
+      "x": 0.009563544789072892,
+      "y": 0.004315988705599748,
+      "z": 0
+    },
+    {
+      "id": "p325",
+      "x": 0.010402626694683441,
+      "y": 0.0025445935715330313,
+      "z": 0
+    },
+    {
+      "id": "p326",
+      "x": 0.003689971449799045,
+      "y": 0.0025445935715330313,
+      "z": 0
+    },
+    {
+      "id": "p327",
+      "x": 0.009283850820536042,
+      "y": 0.012054188501785926,
+      "z": 0
+    },
+    {
+      "id": "p328",
+      "x": 0.014598036222736189,
+      "y": 0.008977554847880577,
+      "z": 0
+    },
+    {
+      "id": "p329",
+      "x": 0.02019191559347319,
+      "y": 0.011867725856094694,
+      "z": 0
+    },
+    {
+      "id": "p330",
+      "x": 0.015064192836964273,
+      "y": 0.021097626817810737,
+      "z": 0
+    },
+    {
+      "id": "p331",
+      "x": 0.011894327860213307,
+      "y": 0.015969904061301825,
+      "z": 0
+    },
+    {
+      "id": "p332",
+      "x": 0.014411573577044956,
+      "y": 0.014198508927235108,
+      "z": 0
+    },
+    {
+      "id": "p333",
+      "x": 0.011334939923139607,
+      "y": 0.015690210092764976,
+      "z": 0
+    }
+  ],
+  "preview_only": false,
+  "scale_source": "two_point_calibration",
+  "sketch_source": "C:\\Users\\alana\\projects\\MEEN 491H\\solidworks_llama_project\\solidworks_llama\\pattern_full.json"
+}

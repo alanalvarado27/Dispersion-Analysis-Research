@@ -1,0 +1,156 @@
+{
+  "constraints": [
+    {
+      "points": [
+        "top_left",
+        "top_right"
+      ],
+      "type": "horizontal"
+    },
+    {
+      "points": [
+        "bottom_left",
+        "bottom_right"
+      ],
+      "type": "horizontal"
+    },
+    {
+      "points": [
+        "top_left",
+        "bottom_left"
+      ],
+      "type": "vertical"
+    },
+    {
+      "points": [
+        "top_right",
+        "bottom_right"
+      ],
+      "type": "vertical"
+    },
+    {
+      "points": [
+        "hole_center",
+        "hole_rim"
+      ],
+      "type": "horizontal"
+    }
+  ],
+  "contours": [
+    {
+      "entities": [
+        {
+          "end": "top_right",
+          "start": "top_left",
+          "type": "line"
+        },
+        {
+          "end": "bottom_right",
+          "start": "top_right",
+          "type": "line"
+        },
+        {
+          "end": "bottom_left",
+          "start": "bottom_right",
+          "type": "line"
+        },
+        {
+          "end": "top_left",
+          "start": "bottom_left",
+          "type": "line"
+        }
+      ],
+      "name": "rectangular_plate",
+      "role": "solid"
+    },
+    {
+      "entities": [
+        {
+          "center": "hole_center",
+          "rim": "hole_rim",
+          "type": "circle"
+        }
+      ],
+      "name": "circular_through_hole",
+      "role": "hole"
+    }
+  ],
+  "coordinate_system": "image_pixels_top_left",
+  "dimensions": [
+    {
+      "name": "L1",
+      "points": [
+        "top_left",
+        "bottom_left"
+      ],
+      "type": "vertical_distance",
+      "value_mm": 3.0
+    },
+    {
+      "name": "L2",
+      "points": [
+        "top_left",
+        "top_right"
+      ],
+      "type": "horizontal_distance",
+      "value_mm": 7.0
+    },
+    {
+      "name": "d",
+      "points": [
+        "hole_center",
+        "hole_rim"
+      ],
+      "type": "diameter",
+      "value_mm": 2.0
+    }
+  ],
+  "image": {
+    "file": "IMG_3799.png",
+    "height": 2048,
+    "width": 1536
+  },
+  "material": {
+    "description": "Extrude the shaded rectangular plate. The unshaded circular region is a through-hole. Exclude handwriting, dimension arrows, hatching, and notebook ruling from sketch geometry.",
+    "interpretation": "shaded_regions"
+  },
+  "notes": [
+    "L1 is overall plate height; L2 is overall plate width; d is hole diameter. Enter positive values in millimeters; no numeric values are supplied in the drawing.",
+    "The rectangle is idealized with straight horizontal/vertical sides and right-angle corners. The hand-drawn hole is a true circle.",
+    "Hole position is NOT dimensioned. Its initial center is estimated from the photograph, toward the left of the plate. No centering or exact offset constraints have been invented. Adjust the hole position in the dimensioned review if needed; resizing may change its relative location.",
+    "Choose dimensions and hole position that leave the hole completely inside the plate. The physical layout should be reviewed after solving."
+  ],
+  "points": [
+    {
+      "id": "top_left",
+      "x": 316.3333345891984,
+      "y": 724.0
+    },
+    {
+      "id": "top_right",
+      "x": 1389.6666652747597,
+      "y": 724.0
+    },
+    {
+      "id": "bottom_right",
+      "x": 1389.6666640180931,
+      "y": 1184.0
+    },
+    {
+      "id": "bottom_left",
+      "x": 316.33333584586507,
+      "y": 1184.0
+    },
+    {
+      "id": "hole_center",
+      "x": 685.8333333394244,
+      "y": 950.0
+    },
+    {
+      "id": "hole_rim",
+      "x": 839.1666666588021,
+      "y": 950.0
+    }
+  ],
+  "schema": "chat_sketch_v1"
+}

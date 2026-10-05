@@ -1,0 +1,170 @@
+{
+  "schema": "chat_sketch_v1",
+  "coordinate_system": "image_pixels_top_left",
+  "image": {
+    "file": "dimension_demo.png",
+    "width": 800,
+    "height": 600
+  },
+  "material": {
+    "interpretation": "shaded_regions",
+    "description": "Extrude the shaded square plate; leave the unshaded circle as a through-hole. Ignore hatch strokes, arrows, and text as geometry."
+  },
+  "notes": [
+    "Enter d for square side and D for hole diameter, in mm. Suggested test: d=80, D=20. The hole must fit inside the square.",
+    "The square relation and centered hole are explicit constraints, not inferred by the C++ program."
+  ],
+  "points": [
+    {
+      "id": "a",
+      "x": 200,
+      "y": 100
+    },
+    {
+      "id": "b",
+      "x": 600,
+      "y": 100
+    },
+    {
+      "id": "c",
+      "x": 600,
+      "y": 500
+    },
+    {
+      "id": "d",
+      "x": 200,
+      "y": 500
+    },
+    {
+      "id": "o",
+      "x": 400,
+      "y": 300
+    },
+    {
+      "id": "r",
+      "x": 450,
+      "y": 300
+    }
+  ],
+  "contours": [
+    {
+      "name": "square_outer",
+      "role": "solid",
+      "entities": [
+        {
+          "type": "line",
+          "start": "a",
+          "end": "b"
+        },
+        {
+          "type": "line",
+          "start": "b",
+          "end": "c"
+        },
+        {
+          "type": "line",
+          "start": "c",
+          "end": "d"
+        },
+        {
+          "type": "line",
+          "start": "d",
+          "end": "a"
+        }
+      ]
+    },
+    {
+      "name": "circular_hole",
+      "role": "hole",
+      "entities": [
+        {
+          "type": "circle",
+          "center": "o",
+          "rim": "r"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "name": "d",
+      "type": "horizontal_distance",
+      "points": [
+        "a",
+        "b"
+      ],
+      "value_mm": null
+    },
+    {
+      "name": "D",
+      "type": "diameter",
+      "points": [
+        "o",
+        "r"
+      ],
+      "value_mm": null
+    }
+  ],
+  "constraints": [
+    {
+      "type": "horizontal",
+      "points": [
+        "a",
+        "b"
+      ]
+    },
+    {
+      "type": "horizontal",
+      "points": [
+        "d",
+        "c"
+      ]
+    },
+    {
+      "type": "vertical",
+      "points": [
+        "a",
+        "d"
+      ]
+    },
+    {
+      "type": "vertical",
+      "points": [
+        "b",
+        "c"
+      ]
+    },
+    {
+      "type": "equal_length",
+      "points": [
+        "a",
+        "b",
+        "a",
+        "d"
+      ]
+    },
+    {
+      "type": "midpoint_x",
+      "points": [
+        "o",
+        "a",
+        "c"
+      ]
+    },
+    {
+      "type": "midpoint_y",
+      "points": [
+        "o",
+        "a",
+        "c"
+      ]
+    },
+    {
+      "type": "horizontal",
+      "points": [
+        "o",
+        "r"
+      ]
+    }
+  ]
+}
