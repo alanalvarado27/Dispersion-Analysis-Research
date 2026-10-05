@@ -6,4 +6,4 @@ One of the things I needed to do first, in the interest of speeding up base task
 The next task if documenting differences between how the part reacts to dynamic excitations with in-lab experiments and calculating the error between this and dynamic excitations on COMSOL.
 
 Here is what my program produced for one of the parallelograms concatenated for research testing:
-![picture_taken](
+![picture_taken](https://github.com/alanalvarado27/Dispersion-Analysis-Research/blob/main/parallelogram.png)
